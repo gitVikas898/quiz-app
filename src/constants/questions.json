@@ -1,0 +1,123 @@
+[
+    {
+        "question" : "What is the Capital of India?",
+        "options" : [{
+            "option" : "New Delhi",
+            "isCorrect" : true
+        },
+        {
+            "option" : "Mumbai",
+            "isCorrect" : false     
+        },
+        {
+            "option" : "Chennai",
+            "isCorrect" : false 
+        },
+        {
+            "option" : "Kolkata",
+            "isCorrect" : false 
+        }],
+        "answer" : "New Delhi"
+    },
+    {
+        "question" : "What is the smallest country in the world?",
+        "options" : [{
+            "option" : "Vatican City",
+            "isCorrect" : true
+        },
+        {
+            "option" : "Monaco",
+            "isCorrect" : false 
+        },
+        {
+            "option" : "San Marino",
+            "isCorrect" : false 
+        },
+        {
+            "option" : "Liechtenstein",
+            "isCorrect" : false 
+        }], 
+        "answer" : "Vatican City"
+    },
+    {
+        "question" : "What is the largest ocean in the world?",
+        "options" : [{
+            "option" : "Pacific Ocean",
+            "isCorrect" : true
+        },
+        {
+            "option" : "Atlantic Ocean",
+            "isCorrect" : false 
+        },
+        {
+            "option" : "Indian Ocean",
+            "isCorrect" : false 
+        },
+        {
+            "option" : "Arctic Ocean",
+            "isCorrect" : false 
+        }],
+        "answer" : "Pacific Ocean"     
+    },
+    {
+        "question" : "What is the largest planet in our solar system?",
+        "options" : [{
+            "option" : "Earth",
+            "isCorrect" : false 
+        },
+        {
+            "option" : "Jupiter",
+            "isCorrect" : true 
+        },
+        {
+            "option" : "Neptune",
+            "isCorrect" : false 
+        },
+        {
+            "option" : "Mars",
+            "isCorrect" : false 
+        }],
+        "answer" : "Jupiter"        
+    },
+    {
+        "question" : "What is the capital of France?",
+        "options" : [{
+            "option" : "Paris",
+            "isCorrect" : true 
+        },
+        {
+            "option" : "London",
+            "isCorrect" : false 
+        },
+        {
+            "option" : "Berlin",
+            "isCorrect" : false 
+        },
+        {
+            "option" : "Madrid",
+            "isCorrect" : false 
+        }],
+        "answer" : "Paris"        
+    },
+    {
+        "question" : "What is the largest animal in the world?",
+        "options" : [{
+            "option" : "Elephant",
+            "isCorrect" : false     
+        },
+        {
+            "option" : "Blue Whale",
+            "isCorrect" : true 
+        },
+        {
+            "option" : "Giraffe",
+            "isCorrect" : false     
+        },
+        {
+            "option" : "Hippopotamus",
+            "isCorrect" : false     
+        }
+    ],
+        "answer" : "Blue Whale"
+    }
+]
